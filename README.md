@@ -115,8 +115,7 @@ Edit the `config.lua` file to customize key elements:
 | `Config.Items`            | List of dark web items + prices                      |
 | `Config.DeliveryLocations`| World coordinates for drop-off points                |
 | `Config.RequiredItem`     | Item needed to access the system                     |
-| `Config.LaptopProps`      | Models/props that can trigger the laptop interface   |
-| `Config.PaymentMethod`    | Payment method at delivery (usually cash)            |
+| `Config.LaptopModels`      | Models/props that can trigger the laptop interface   |
 
 ---
 
